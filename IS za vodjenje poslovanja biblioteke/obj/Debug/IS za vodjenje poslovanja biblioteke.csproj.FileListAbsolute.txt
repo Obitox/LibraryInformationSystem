@@ -1,0 +1,22 @@
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\bin\Debug\IS za vodjenje poslovanja biblioteke.exe.config
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\bin\Debug\IS za vodjenje poslovanja biblioteke.exe
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\bin\Debug\IS za vodjenje poslovanja biblioteke.pdb
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS za vodjenje poslovanja biblioteke.csprojResolveAssemblyReference.cache
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.Properties.Resources.resources
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS za vodjenje poslovanja biblioteke.csproj.GenerateResource.Cache
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS za vodjenje poslovanja biblioteke.exe
+c:\users\bojan - pc\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS za vodjenje poslovanja biblioteke.pdb
+C:\Users\Bojan - PC\Documents\Visual Studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.Pocetna.resources
+C:\Users\Bojan - PC\Documents\Visual Studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.Logovanje.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.Administracija.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.AzurirajKnjigu.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.DodajKnjigu.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.Registracija.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.Klijent.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.IzbrisiKnjigu.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.AzuriranjeKnjige.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.AzurirajKorisnika.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.DodajKorisnika.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.IzbrisiKorisnika.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.AzuriranjeKorisnika.resources
+C:\Users\Bojan - PC\documents\visual studio 2015\Projects\IS za vodjenje poslovanja biblioteke\IS za vodjenje poslovanja biblioteke\obj\Debug\IS_za_vodjenje_poslovanja_biblioteke.ResavanjeRezervacije.resources
